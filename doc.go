@@ -13,7 +13,7 @@ The library is fully written in Go (or go-assembly), and based on interfaces
 found in Go's standard library.
 
 */
-package godium // import "go.artemisc.eu/godium"
+package godium // import "github.com/phasehq/libgodium"
 
 // Version information, represents the latest libsodium version that this build
 // is compatible with.

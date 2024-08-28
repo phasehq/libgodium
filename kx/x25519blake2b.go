@@ -7,10 +7,10 @@
 package kx
 
 import (
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/generichash"
-	"go.artemisc.eu/godium/internal"
-	"go.artemisc.eu/godium/scalarmult"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/generichash"
+	"github.com/phasehq/libgodium/internal"
+	"github.com/phasehq/libgodium/scalarmult"
 )
 
 const (

@@ -7,4 +7,4 @@
 /*
 
  */
-package random // import "go.artemisc.eu/godium/random"
+package random // import "github.com/phasehq/libgodium/random"

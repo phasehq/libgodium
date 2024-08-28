@@ -4,13 +4,13 @@
 // License, v. 2.0. If a copy of the MPL was not distributed with this
 // file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-package pwhash // import "go.artemisc.eu/godium/pwhash"
+package pwhash // import "github.com/phasehq/libgodium/pwhash"
 
 import (
 	"errors"
 
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/random"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/random"
 )
 
 const (

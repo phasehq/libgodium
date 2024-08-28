@@ -7,11 +7,11 @@
 package box
 
 import (
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/core"
-	"go.artemisc.eu/godium/internal"
-	"go.artemisc.eu/godium/scalarmult"
-	"go.artemisc.eu/godium/secretbox"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/core"
+	"github.com/phasehq/libgodium/internal"
+	"github.com/phasehq/libgodium/scalarmult"
+	"github.com/phasehq/libgodium/secretbox"
 )
 
 const (

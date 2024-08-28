@@ -7,14 +7,14 @@
 /*
 
  */
-package hash // import "go.artemisc.eu/godium/hash"
+package hash // import "github.com/phasehq/libgodium/hash"
 
 import (
 	"crypto/sha256"
 	"crypto/sha512"
 	"hash"
 
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (

@@ -11,8 +11,8 @@ import (
 	"encoding/binary"
 	"io"
 
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/internal"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/internal"
 )
 
 //

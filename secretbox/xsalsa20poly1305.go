@@ -7,10 +7,10 @@
 package secretbox
 
 import (
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/internal"
-	"go.artemisc.eu/godium/onetimeauth"
-	"go.artemisc.eu/godium/stream"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/internal"
+	"github.com/phasehq/libgodium/onetimeauth"
+	"github.com/phasehq/libgodium/stream"
 )
 
 const (

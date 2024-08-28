@@ -9,8 +9,8 @@ package core
 import (
 	"unsafe"
 
-	"git.schwanenlied.me/yawning/chacha20.git"
-	"go.artemisc.eu/godium/internal"
+	"github.com/Yawning/chacha20"
+	"github.com/phasehq/libgodium/internal"
 )
 
 const (

@@ -11,7 +11,7 @@ import (
 	"hash"
 
 	"github.com/dchest/siphash"
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (

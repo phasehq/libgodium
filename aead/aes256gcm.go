@@ -10,7 +10,7 @@ import (
 	"crypto/aes"
 	"crypto/cipher"
 
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (

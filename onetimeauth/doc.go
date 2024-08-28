@@ -10,10 +10,10 @@ Package OneTimeAuth implements primitives for secret key based one-time
 authentication codes.
 
 */
-package onetimeauth // import "go.artemisc.eu/godium/onetimeauth"
+package onetimeauth // import "github.com/phasehq/libgodium/onetimeauth"
 
 import (
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (

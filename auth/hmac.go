@@ -7,7 +7,7 @@
 /*
 
  */
-package auth // import "go.artemisc.eu/godium/auth"
+package auth // import "github.com/phasehq/libgodium/auth"
 
 import (
 	"crypto/hmac"
@@ -15,7 +15,7 @@ import (
 	"crypto/sha512"
 	"hash"
 
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (

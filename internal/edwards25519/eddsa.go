@@ -13,7 +13,7 @@ import (
 	"crypto/sha512"
 	"strconv"
 
-	"go.artemisc.eu/godium/internal"
+	"github.com/phasehq/libgodium/internal"
 )
 
 const (

@@ -8,7 +8,7 @@ package stream
 
 import (
 	"github.com/Yawning/chacha20"
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (

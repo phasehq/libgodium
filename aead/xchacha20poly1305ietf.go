@@ -7,9 +7,9 @@
 package aead
 
 import (
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/core"
-	"go.artemisc.eu/godium/internal"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/core"
+	"github.com/phasehq/libgodium/internal"
 )
 
 const (

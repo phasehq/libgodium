@@ -12,8 +12,8 @@ package scalarmult
 import (
 	"unsafe"
 
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/internal"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/internal"
 	"golang.org/x/crypto/curve25519"
 )
 

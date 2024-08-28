@@ -9,9 +9,9 @@ package kdf
 import (
 	"encoding/binary"
 
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/generichash"
-	"go.artemisc.eu/godium/internal"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/generichash"
+	"github.com/phasehq/libgodium/internal"
 )
 
 const (

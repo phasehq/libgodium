@@ -7,10 +7,10 @@
 package sign
 
 import (
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/hash"
-	"go.artemisc.eu/godium/internal"
-	"go.artemisc.eu/godium/internal/edwards25519"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/hash"
+	"github.com/phasehq/libgodium/internal"
+	"github.com/phasehq/libgodium/internal/edwards25519"
 )
 
 const (

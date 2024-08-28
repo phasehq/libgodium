@@ -7,10 +7,10 @@
 /*
 
  */
-package box // import "go.artemisc.eu/godium/box"
+package box // import "github.com/phasehq/libgodium/box"
 
 import (
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (

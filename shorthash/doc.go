@@ -7,4 +7,4 @@
 /*
 
  */
-package shorthash // import "go.artemisc.eu/godium/shorthash"
+package shorthash // import "github.com/phasehq/libgodium/shorthash"

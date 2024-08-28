@@ -9,7 +9,7 @@ package core
 import (
 	"unsafe"
 
-	"go.artemisc.eu/godium/internal"
+	"github.com/phasehq/libgodium/internal"
 	"golang.org/x/crypto/salsa20/salsa"
 )
 

@@ -7,4 +7,4 @@
 /*
 
  */
-package aead // import "go.artemisc.eu/godium/aead"
+package aead // import "github.com/phasehq/libgodium/aead"

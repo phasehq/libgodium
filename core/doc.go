@@ -9,4 +9,4 @@
 Package core implements some of the core algorithms of libsodium.
 
 */
-package core // import "go.artemisc.eu/godium/core"
+package core // import "github.com/phasehq/libgodium/core"

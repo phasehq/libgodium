@@ -13,8 +13,8 @@ import (
 
 	//"golang.org/x/crypto/scrypt"
 
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/internal"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/internal"
 )
 
 const (

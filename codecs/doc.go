@@ -10,4 +10,4 @@ Package Codecs implements binary to text encoding with constant time
 implementations of a selected set of encodings.
 
 */
-package codecs // import "go.artemisc.eu/godium/codecs"
+package codecs // import "github.com/phasehq/libgodium/codecs"

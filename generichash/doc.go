@@ -7,10 +7,10 @@
 /*
 
  */
-package generichash // import "go.artemisc.eu/godium/generichash"
+package generichash // import "github.com/phasehq/libgodium/generichash"
 
 import (
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (

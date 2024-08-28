@@ -9,8 +9,8 @@ package stream
 import (
 	"encoding/binary"
 
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/core"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/core"
 )
 
 const (

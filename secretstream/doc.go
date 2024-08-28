@@ -7,10 +7,10 @@
 /*
 
  */
-package secretstream // import "go.artemisc.eu/godium/secretstream"
+package secretstream // import "github.com/phasehq/libgodium/secretstream"
 
 import (
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (

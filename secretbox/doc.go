@@ -7,4 +7,4 @@
 /*
 
  */
-package secretbox // import "go.artemisc.eu/godium/secretbox"
+package secretbox // import "github.com/phasehq/libgodium/secretbox"

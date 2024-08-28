@@ -9,9 +9,9 @@ package pwhash
 import (
 	"math"
 
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 	"golang.org/x/crypto/argon2"
-	"go.artemisc.eu/godium/internal"
+	"github.com/phasehq/libgodium/internal"
 )
 
 const (

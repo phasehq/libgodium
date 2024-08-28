@@ -10,7 +10,7 @@ import (
 	"crypto/hmac"
 
 	"github.com/Yawning/poly1305"
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (

@@ -10,8 +10,8 @@ import (
 	"hash"
 
 	"github.com/minio/blake2b-simd"
-	"go.artemisc.eu/godium"
-	"go.artemisc.eu/godium/internal"
+	"github.com/phasehq/libgodium"
+	"github.com/phasehq/libgodium/internal"
 )
 
 const (

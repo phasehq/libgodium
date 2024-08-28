@@ -7,10 +7,10 @@
 /*
 
  */
-package kx // import "go.artemisc.eu/godium/kx"
+package kx // import "github.com/phasehq/libgodium/kx"
 
 import (
-	"go.artemisc.eu/godium"
+	"github.com/phasehq/libgodium"
 )
 
 const (
